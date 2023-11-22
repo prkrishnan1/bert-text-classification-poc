@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+transformers[torch]
+datasets
+torch
+accelerate

@@ -1,0 +1,10 @@
+{
+  "ROLE": "arn:aws:iam::305283204878:role/service-role/SageMaker-MLOpsEngineer",
+  "BUCKET_NAME": "sagemakerstanfordprojects",
+  "PROCESSING_IMAGE_URI": "305283204878.dkr.ecr.us-east-1.amazonaws.com/snow-tc-processing-container:latest",
+  "PROCESSING_CONTAINER_BASE_PATH": "/opt/ml/processing",
+  "S3_PREFIX": "snowtextclassification",
+  "TRANSFORMERS_VERSION": "4.26",
+  "PYTORCH_VERSION": "1.13",
+  "PY_VERSION": "py39"
+}
