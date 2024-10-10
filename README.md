@@ -24,6 +24,9 @@ Choose best candidate model
 Create SageMaker Predictor and Endpoint objects
 Measure accuracy across Confidence Threshold and Dataset Coverage
 
+# High Level Architecture
+![alt text](https://github.com/prkrishnan1/bert-text-classification-poc/blob/main/high_level_architecture.png)
+
 # Pipeline
 
 ### pipeline.py
